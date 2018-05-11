@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{02DF81A3-CF3A-AB04-E112-8774463B41A9}|">
+  <MonoDevelop.Ide.ItemProperties.CsvTest PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/testCsv.csv">
+    <Files>
+      <File FileName="Assets/Scripts/vscManager.cs" Line="155" Column="21" NotebookId="1" />
+      <File FileName="Assets/Resources/testCsv.csv" Line="5" Column="9" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="223" Y="22" Width="1440" Height="856">
+        <Files>
+          <File FileName="Assets/Scripts/test.cs" Line="30" Column="61" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
