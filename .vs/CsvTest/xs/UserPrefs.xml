@@ -1,17 +1,12 @@
-﻿<Properties StartupConfiguration="{02DF81A3-CF3A-AB04-E112-8774463B41A9}|">
+﻿<Properties StartupConfiguration="{E1161E47-A65D-0ECC-FCB6-4B1EA6D57F77}|">
   <MonoDevelop.Ide.ItemProperties.CsvTest PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/testCsv.csv">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/CSV/PlayLog.csv">
     <Files>
-      <File FileName="Assets/Scripts/vscManager.cs" Line="155" Column="21" NotebookId="1" />
-      <File FileName="Assets/Resources/testCsv.csv" Line="5" Column="9" NotebookId="1" />
+      <File FileName="Assets/Scripts/csvManager.cs" Line="47" Column="28" />
+      <File FileName="Assets/Scripts/DataManager.cs" Line="73" Column="39" />
+      <File FileName="Assets/Resources/CSV/PlayLog.csv" Line="1" Column="1" />
     </Files>
-    <FloatingWindows>
-      <FloatingWindow WindowId="1" X="223" Y="22" Width="1440" Height="856">
-        <Files>
-          <File FileName="Assets/Scripts/test.cs" Line="30" Column="61" />
-        </Files>
-      </FloatingWindow>
-    </FloatingWindows>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
